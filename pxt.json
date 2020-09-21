@@ -1,0 +1,21 @@
+{
+    "name": "PIR sensor",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "MakerBit-MP3": "github:1010technologies/pxt-makerbit-mp3#v1.0.7"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
